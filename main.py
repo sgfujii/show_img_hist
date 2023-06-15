@@ -6,7 +6,7 @@ from skimage.io import imread
 #hello world
 
 st.markdown("""
-##画像のRGB値の分布
+## 画像のRGB値の分布
 
 画像のRGB値の分布をヒストグラムで表示するWebアプリ
 """
